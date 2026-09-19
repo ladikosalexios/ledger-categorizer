@@ -1,0 +1,23 @@
+transaction_id,date,type,category,amount,needs_review
+t_0001,2026-06-01,purchase,Inventory,912.40,false
+t_0002,2026-06-01,deposit,Card sales,-1840.25,false
+t_0003,2026-06-02,purchase,Shipping,64.10,false
+t_0004,2026-06-02,purchase,Rent,3200.00,false
+t_0005,2026-06-03,purchase,Uncategorized,48.17,true
+t_0006,2026-06-03,purchase,Utilities,412.90,false
+t_0007,2026-06-04,transfer,Transfer,2500.00,false
+t_0008,2026-06-04,transfer,Transfer,-2500.00,false
+t_0009,2026-06-05,purchase,Inventory,530.00,false
+t_0010,2026-06-05,refund,Inventory,-120.50,false
+t_0011,2026-06-08,deposit,Online sales,-655.80,false
+t_0012,2026-06-08,refund,Uncategorized,-23.99,true
+t_0013,2026-06-09,transfer,Transfer,4000.00,false
+t_0014,2026-06-09,purchase,Tools & equipment,210.00,false
+t_0015,2026-06-10,purchase,Payroll,5120.33,false
+t_0016,2026-06-10,purchase,Software,49.00,false
+t_0017,2026-06-11,purchase,Inventory,298.75,false
+t_0018,2026-06-11,purchase,Insurance,188.00,false
+t_0019,2026-06-12,transfer,Transfer,-1500.00,false
+t_0020,2026-06-12,deposit,Card sales,-2011.60,false
+t_0021,2026-06-15,purchase,Utilities,129.99,false
+t_0022,2026-06-15,purchase,Uncategorized,18.40,true
